@@ -1,5 +1,5 @@
 # Beheer Menu Script
-
+Better coding
 # Functie om het menu weer te geven
 function Show-Menu {
    
